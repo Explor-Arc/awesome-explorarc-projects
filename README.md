@@ -1,1 +1,3 @@
-# awesome-explorarc-projects
+# ExplorArc Projects
+
+Data is Stored at data.json
