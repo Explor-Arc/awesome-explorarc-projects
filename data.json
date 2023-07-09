@@ -1,0 +1,24 @@
+{
+  "Protmol": {
+    "URL": "URL",
+    "Logo": "Logo_Link",
+    "Name": "Protomol",
+    "Desc": "This is just an Sample Description",
+    "Type": "Product / Service",
+    "Desk_img": "Image_Link",
+    "Tab_img": "Image_Link",
+    "Mob_Img": "Image_Link",
+    "Short_Name": "Protomol"
+  },
+  "Protmol1": {
+    "URL": "URL",
+    "Logo": "Logo_Link",
+    "Name": "Protomol",
+    "Desc": "This is just an Sample Description",
+    "Type": "Product / Service",
+    "Desk_img": "Image_Link",
+    "Tab_img": "Image_Link",
+    "Mob_Img": "Image_Link",
+    "Short_Name": "Protomol"
+  }
+}
