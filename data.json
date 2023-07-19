@@ -11,6 +11,18 @@
         "Short_Name": "Protomol",
         "Banner": "https://protomol.explorarc.com/banner.png"
     },
+    "BlinkBurst": {
+        "URL": "https://blinkburst.explorarc.com/",
+        "Logo": "https://blinkburst.explorarc.com/images/logo.png",
+        "Name": "BlinkBurst: Tutorials Covering Core Topics in Innovative Arrays!",
+        "Desc": "Discover a revolutionary approach to learning at BlinkBurst! Our website offers a diverse array of knowledge through ExplorArc-powered tutorials, each carefully designed to cover essential core topics. What sets us apart is our innovative array format, where tutorials are presented in 2x2 to 5x5 arrays, combining efficiency and comprehensiveness. Whether you&#x27;re a beginner or a seasoned learner, our step-by-step tutorials cater to all levels of expertise. Unravel complex subjects effortlessly as you navigate through sections within each array. With BlinkBurst, you&#x27;ll experience an engaging and structured learning journey like never before. Our passionate team of experts strives to deliver high-quality content, empowering you to master diverse subjects at your pace. Embark on a fulfilling educational adventure and unlock a vast world of knowledge with BlinkBurst today!",
+        "Type": "Website",
+        "Desk_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fblinkburst-laptop.png?alt=media&token=010857fb-efa7-406f-8bb5-784dfc12a843",
+        "Tab_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fblinkburst-tablet.png?alt=media&token=aaeddfb0-2d75-436f-b1e6-f6fe8595c340",
+        "Mob_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fblinkburst-mobile.png?alt=media&token=77613179-1fe9-479c-b956-691ed7de591f",
+        "Short_Name": "BlinkBurst",
+        "Banner": "https://blinkburst.explorarc.com/banner.png"
+    },
     "Markdown Editor": {
         "URL": "https://md.explorarc.com/",
         "Logo": "https://md.explorarc.com/logo.png",
