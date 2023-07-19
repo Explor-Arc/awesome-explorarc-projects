@@ -1,24 +1,74 @@
 {
-  "Protmol": {
-    "URL": "URL",
-    "Logo": "Logo_Link",
-    "Name": "Protomol",
-    "Desc": "This is just an Sample Description",
-    "Type": "Product / Service",
-    "Desk_img": "Image_Link",
-    "Tab_img": "Image_Link",
-    "Mob_Img": "Image_Link",
-    "Short_Name": "Protomol"
-  },
-  "Protmol1": {
-    "URL": "URL",
-    "Logo": "Logo_Link",
-    "Name": "Protomol",
-    "Desc": "This is just an Sample Description",
-    "Type": "Product / Service",
-    "Desk_img": "Image_Link",
-    "Tab_img": "Image_Link",
-    "Mob_Img": "Image_Link",
-    "Short_Name": "Protomol"
-  }
+    "Protmol": {
+        "URL": "https://protomol.explorarc.com/",
+        "Logo": "https://protomol.explorarc.com/images/logo.png",
+        "Name": "Protomol - The Next Generation Roadmap Provider for all NewBie",
+        "Desc": "Protomol is the ultimate roadmap provider for beginners, offering a comprehensive and user-friendly platform designed to guide newbies through their journey. Discover the next generation of tools and resources that empower newcomers to navigate their way to success with ease. Join Protomol today and unlock a world of possibilities.",
+        "Type": "Service",
+        "Desk_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fprotomol-laptop.png?alt=media&token=6e1a0a43-c709-4483-a9dc-bb2396f890c6",
+        "Tab_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fprotomol-tablet.png?alt=media&token=4b5a0324-aaf1-4477-b1fc-2b89d0ae0dd5",
+        "Mob_Img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fprotomol-mobile.png?alt=media&token=5b5a2287-d738-422f-82f4-8d3c19420675",
+        "Short_Name": "Protomol",
+        "Banner": "https://protomol.explorarc.com/banner.png"
+    },
+    "Markdown Editor": {
+        "URL": "https://md.explorarc.com/",
+        "Logo": "https://md.explorarc.com/logo.png",
+        "Name": "Markdown Editor Powered by ExplorArc",
+        "Desc": "Experience the convenience of a powerful Markdown editor with ExplorArc. Create and edit Markdown documents effortlessly, leveraging the robust features and user-friendly interface of our innovative Markdown Editor. Explore the possibilities of streamlined content creation and organization, backed by the reliable technology of ExplorArc.",
+        "Type": "Product",
+        "Desk_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fmd-laptop.png?alt=media&token=48398302-897c-488f-a0f8-d956bcb7fe96",
+        "Tab_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fmd-tablet.png?alt=media&token=348e60ec-7ec2-47fa-b0aa-9855b2031f7b",
+        "Mob_Img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fmd-mobile.png?alt=media&token=d236d46d-a6f4-4bad-8c40-3c67139d04c5",
+        "Short_Name": "Markdown Editor",
+        "Banner": "https://md.explorarc.com/logo.png"
+    },
+    "Text Editor": {
+        "URL": "https://txt.explorarc.com/",
+        "Logo": "https://txt.explorarc.com/logo.png",
+        "Name": "Text Editor Powered by ExplorArc",
+        "Desc": "Minimalistic online text editor that allows you to effortlessly create and edit text files. Powered by ExplorArc, this user-friendly tool provides a seamless writing experience with the added convenience of downloading your files. Experience simplicity and efficiency in text editing. Try it today!",
+        "Type": "Product",
+        "Desk_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Ftxt-laptop.png?alt=media&token=8f34b544-6781-4550-a384-99369aaaf13a",
+        "Tab_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Ftxt-tablet.png?alt=media&token=61c1d5b3-668b-4dfc-925d-9001dd3e39b2",
+        "Mob_Img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Ftxt-mobile.png?alt=media&token=c8c31d42-ca3e-4156-97b5-32086280c751",
+        "Short_Name": "Text Editor",
+        "Banner": "https://txt.explorarc.com/logo.png"
+    },
+    "JSON Editor": {
+        "URL": "https://json.explorarc.com/",
+        "Logo": "https://json.explorarc.com/logo.png",
+        "Name": "JSON Editor Powered by ExplorArc",
+        "Desc": "Minimalistic online JSON editor that allows you to effortlessly create and edit JSON files. Powered by ExplorArc, this user-friendly tool provides a seamless writing experience with the added convenience of downloading your files. Experience simplicity and efficiency in JSON editing. Try it today!",
+        "Type": "Product",
+        "Desk_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fjson-laptop.png?alt=media&token=75b91d5a-4896-438c-b38d-30aaa38da2d5",
+        "Tab_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fjson-tablet.png?alt=media&token=38d0fb7a-049b-42e0-9fba-e5d14eababc6",
+        "Mob_Img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fjson-mobile.png?alt=media&token=dfc52acb-8dd5-478d-85fa-bca9d18e80cf",
+        "Short_Name": "JSON Editor",
+        "Banner": "https://json.explorarc.com/logo.png"
+    },
+    "LixtIT": {
+        "URL": "https://lixtit.explorarc.com/",
+        "Logo": "https://lixtit.explorarc.com/images/logo.png",
+        "Name": "Lixtit - Curated Lists at Your Fingertips",
+        "Desc": "Unleash your curiosity with Lixtit! Explore a world of extraordinary lists curated by enthusiasts like you. Dive into fascinating topics, find hidden gems, and uncover the most captivating compilations. Discover the power of lists at Lixtit and embark on a journey of endless exploration.",
+        "Type": "Service",
+        "Desk_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Flixtit-laptop.png?alt=media&token=0a96aa0d-0d76-4f06-822a-28e9f4738f64",
+        "Tab_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Flixtit-tablet.png?alt=media&token=57c5f690-01dc-4bdd-8441-b4fbad07cbb9",
+        "Mob_Img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Flixtit-mobile.png?alt=media&token=8b64afcf-9d42-4420-9185-fb20186bfc90",
+        "Short_Name": "LixtIT",
+        "Banner": "https://lixtit.explorarc.com/images/logo.png"
+    },
+    "ResX": {
+        "URL": "https://resx.explorarc.com/",
+        "Logo": "https://resx.explorarc.com/logo.png",
+        "Name": "ResX - Empowering Learning and Resource Accessibility",
+        "Desc": "Unleash your curiosity with Lixtit! Explore a world of extraordinary lists curated by enthusiasts like you. Dive into fascinating topics, find hidden gems, and uncover the most captivating compilations. Discover the power of lists at Lixtit and embark on a journey of endless exploration.",
+        "Type": "Service",
+        "Desk_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fresx-laptop.png?alt=media&token=3c278b89-1201-40ef-9c1a-45fe60e46787",
+        "Tab_img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fresx-tablet.png?alt=media&token=5a404f52-e82d-4ae4-98d0-a27e81fb5cc0",
+        "Mob_Img": "https://firebasestorage.googleapis.com/v0/b/explorearc-de6d9.appspot.com/o/Projects%2Fresx-mobile.png?alt=media&token=78d74060-a09e-4daa-984e-f6bad0d4ccbe",
+        "Short_Name": "ResX",
+        "Banner": "https://resx.explorarc.com/banner.png"
+    }
 }
